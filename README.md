@@ -7,7 +7,7 @@ Looking at the plotted series, even though I dropped those specific extreme outl
 
 Moving into the model-fitting phase, I executed a 5-fold cross-validation to evaluate predictive accuracy across non-overlapping testing windows. Following cross-validation, I extracted the performance metrics for each model on a per-property basis and aggregated the evaluation dataframes to calculate the number of metric "wins" (values closest to 0) achieved by each model across the series. Interestingly, AutoArimaWPred and LGBM tied for the top performance, each achieving the lowest MAE on 6 hotel properties. This finding aligned with what I’ve learned through class, both models successfully incorporate exogenous covariates. This highlights how external predictors - beyond just the baseline identifiers of unique_id, y, and ds - significantly enhance a model's predictive capabilities, capturing vital demand drivers like seasonality, day-of-week effects, etc. Ultimately, I selected the LGBM model for final testing due to its superior processing speed, scalability, and capacity to handle complex feature structures. While AutoARIMA accommodates covariates, LGBM seamlessly leverages both external covariates and high-dimensional lag variables, while also offering the advantage of automated feature selection to figure out which variables matter most.
 
-# Note to Professor Fadel
+## Note to Professor Fadel
 Thank you so much for your guidance, encouragement, and understanding regarding my class absences throughout this semester. I deeply appreciate your willingness to support me and provide assistance given my circumstances. I hope to keep in touch!
 
 ## 📊 Project Notebooks & Deliverables
