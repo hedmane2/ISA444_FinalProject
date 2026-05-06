@@ -19,8 +19,8 @@ Thank you so much for your guidance, encouragement, and understanding regarding 
 * 📓 [TimeCoPilot Model Pipeline](TCF_Project.ipynb)
 * 📓 [Bonus - TabPFN Model Pipeline](Bonus_TabPFN_Project.ipynb)
 
-### 🧐 Model Selection
-* 📓 [Selecting the Best Model Workflow](Selecting_BestModel_Project.ipynb)
+### 📌 Model Selection
+* 📓 [Selecting the Best Model](Selecting_BestModel_Project.ipynb)
 
 ### 📈 Final Testing & Visualizations
 * 📓 [Forecasting with the Selected Best Model (LGBM)](FinalForecast_LGBM_Project.ipynb)
