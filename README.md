@@ -14,16 +14,16 @@ Thank you so much for your guidance, encouragement, and understanding regarding 
 
 ### 🗂️ Data Preparation & Cross-Validation Pipelines
 * 📓 [(Data Preparation, Baseline, StatsForecast, and LGBM Models Pipeline)](https://colab.research.google.com/drive/1B3C3ozGHq9MKRmQrRxqDcFQe5b3sApWa?usp=sharing)
-* 📓 [(AutoNBEATS Model Pipeline)] (AutoNBEATS_Project.ipynb)
-* 📓 AutoNHITS Model Pipeline(AutoNHITS_Project.ipynb)
-* 📓 [TimeCoPilot Model Pipeline](TCF_Project.ipynb)
-* 📓 [Bonus - TabPFN Model Pipeline](Bonus_TabPFN_Project.ipynb)
+* 📓 [(AutoNBEATS Model Pipeline)](https://colab.research.google.com/drive/18IYYHwLeUs-ClanHNSDGv3oqlNC0gmws?usp=sharing)
+* 📓 [(AutoNHITS Model Pipeline)](https://colab.research.google.com/drive/1NXHC-N3AO_4wuPOwTCOavar0_-2i17aR?usp=sharing)
+* 📓 [(TimeCoPilot Model Pipeline)](https://colab.research.google.com/drive/1X6NHo57qhqxfaEOaTkc35QimBkjKa1jZ?usp=sharing)
+* 📓 [(Bonus_TabPFN Model Pipeline)](https://colab.research.google.com/drive/1677sJsG7QAzThUvXnOMvoK-RlCFgEEm7?usp=sharing)
 
 ### 📌 Model Selection
-* 📓 [Selecting the Best Model](Selecting_BestModel_Project.ipynb)
+* 📓 [(Model Selection & Evaluation Workflow)](https://colab.research.google.com/drive/1PLU6kAPlU34slXMqzG9FtaP-uo1n3_Rw?usp=sharing)
 
 ### 📈 Final Testing & Visualizations
-* 📓 [Forecasting with the Selected Best Model (LGBM)](FinalForecast_LGBM_Project.ipynb)
+* 📓 [(Forecasting with the Selected Best Model (LGBM))]((https://colab.research.google.com/drive/1xONrsEKic8s_c9s7dLqA8ucWVXe6vYpl?usp=sharing))
 * 🖼️ [Final Forecast Plots vs. Actuals](FinalForecast_Plots_vs_Actuals.png)
 
 ### 📄 Required Evaluation Outputs (CSVs)
