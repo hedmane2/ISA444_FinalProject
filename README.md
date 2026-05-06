@@ -1,4 +1,4 @@
-# ISA444_FinalProject: Hotel Demand Track
+# Hotel Demand Track
 # Project Analysis & Key Findings
 
 ## Data Preparation & Visual Exploration
