@@ -17,7 +17,7 @@ Thank you so much for your guidance, encouragement, and understanding regarding 
 * 📓 [(AutoNBEATS Model Pipeline)](https://colab.research.google.com/drive/18IYYHwLeUs-ClanHNSDGv3oqlNC0gmws?usp=sharing)
 * 📓 [(AutoNHITS Model Pipeline)](https://colab.research.google.com/drive/1NXHC-N3AO_4wuPOwTCOavar0_-2i17aR?usp=sharing)
 * 📓 [(TimeCoPilot Model Pipeline)](https://colab.research.google.com/drive/1X6NHo57qhqxfaEOaTkc35QimBkjKa1jZ?usp=sharing)
-* 📓 [(Bonus_TabPFN Model Pipeline)](https://colab.research.google.com/drive/1677sJsG7QAzThUvXnOMvoK-RlCFgEEm7?usp=sharing)
+* 📓 [(Bonus: TabPFN Model Pipeline)](https://colab.research.google.com/drive/1677sJsG7QAzThUvXnOMvoK-RlCFgEEm7?usp=sharing)
 
 ### 📌 Model Selection
 * 📓 [(Model Selection & Evaluation Workflow)](https://colab.research.google.com/drive/1PLU6kAPlU34slXMqzG9FtaP-uo1n3_Rw?usp=sharing)
