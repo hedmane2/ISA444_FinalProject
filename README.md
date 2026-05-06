@@ -15,9 +15,9 @@ Through this project, I implemented time-series cross-validation across a variet
 
 Looking at the plotted series, even though I dropped those specific extreme outlier properties, I consider **MAPE to be an inappropriate metric** for this dataset. 
 
-> **Why avoid MAPE?**
-> 1. Several remaining properties still experience deep drops in demand close to zero, which mathematically breaks the metric. 
-> 2. Additionally, MAPE is biased because it calculates error using a fraction that penalizes under-predictions much more severely than over-predictions.
+ **Why avoid MAPE?**
+1. Several remaining properties still experience deep drops in demand close to zero, which mathematically breaks the metric. 
+2. Additionally, MAPE is biased because it calculates error using a fraction that penalizes under-predictions much more severely than over-predictions.
 
 To avoid these distortions, I decided to rely on **Mean Absolute Error (MAE)** as my primary evaluation metric, which measures the average magnitude of errors by taking the absolute value, treating overprediction and underprediction with equal penalization regardless of the hotel's overall size. Furthermore, MAE is highly interpretable, as the resulting error is expressed directly in the same units as the target variable (daily room demand).
 
