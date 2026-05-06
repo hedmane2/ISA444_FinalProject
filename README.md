@@ -17,7 +17,7 @@ Thank you so much for your guidance, encouragement, and understanding regarding 
 * 📓 [AutoNBEATS Model Pipeline](AutoNBEATS_Project.ipynb)
 * 📓 [AutoNHITS Model Pipeline](AutoNHITS_Project.ipynb)
 * 📓 [TimeCoPilot Model Pipeline](TCF_Project.ipynb)
-* 📓 [TabPFN Model Pipeline](Bonus_TabPFN_Project.ipynb)
+* 📓 [Bonus - TabPFN Model Pipeline](Bonus_TabPFN_Project.ipynb)
 
 ### 🧐 Model Selection
 * 📓 [Selecting the Best Model Workflow](Selecting_BestModel_Project.ipynb)
