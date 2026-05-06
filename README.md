@@ -13,7 +13,7 @@ Thank you so much for your guidance, encouragement, and understanding regarding 
 ## 📊 Project Notebooks & Deliverables
 
 ### 🗂️ Data Preparation & Cross-Validation Pipelines
-* 📓 [Data Preparation, Baseline, StatsForecast, and LGBM Models Pipeline](DataPrep_Baseline_StatsForecasts_LGBM_Project.ipynb)
+* 📓 [Data Preparation, Baseline, StatsForecast, and LGBM Models Pipeline][(DataPrep_Baseline_StatsForecasts_LGBM_Project.ipynb)](https://colab.research.google.com/drive/1B3C3ozGHq9MKRmQrRxqDcFQe5b3sApWa?usp=sharing)
 * 📓 [AutoNBEATS Model Pipeline](AutoNBEATS_Project.ipynb)
 * 📓 [AutoNHITS Model Pipeline](AutoNHITS_Project.ipynb)
 * 📓 [TimeCoPilot Model Pipeline](TCF_Project.ipynb)
