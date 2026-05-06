@@ -23,7 +23,7 @@ Thank you so much for your guidance, encouragement, and understanding regarding 
 * 📓 [(Best Model Selection & Evaluation Workflow)](https://colab.research.google.com/drive/1PLU6kAPlU34slXMqzG9FtaP-uo1n3_Rw?usp=sharing)
 
 ### 📈 Final Testing & Visualizations
-* 📓 [(Forecasting with the Selected Best Model (LGBM))]((https://colab.research.google.com/drive/1xONrsEKic8s_c9s7dLqA8ucWVXe6vYpl?usp=sharing))
+* 📓 [(Forecasting with the Selected Best Model (LGBM))](https://colab.research.google.com/drive/1xONrsEKic8s_c9s7dLqA8ucWVXe6vYpl?usp=sharing)
 * 🖼️ [Final Forecast Plots vs. Actuals](FinalForecast_Plots_vs_Actuals.png)
 
 ### 📄 Required Evaluation Outputs (CSVs)
