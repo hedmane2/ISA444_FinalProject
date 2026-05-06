@@ -10,3 +10,27 @@ Moving into the model-fitting phase, I executed a 5-fold cross-validation to eva
 # Note to Professor Fadel
 Thank you so much for your guidance, encouragement, and understanding regarding my class absences throughout this semester. I deeply appreciate your willingness to support me and provide assistance given my circumstances. I hope to keep in touch!
 
+## 📊 Project Notebooks & Deliverables
+
+### 🗂️ Data Preparation & Cross-Validation Pipelines
+* 📓 [Data Preparation, Baseline, StatsForecast, and LGBM Models Pipeline](DataPrep_Baseline_StatsForecasts_LGBM_Project.ipynb)
+* 📓 [AutoNBEATS Model Pipeline](AutoNBEATS_Project.ipynb)
+* 📓 [AutoNHITS Model Pipeline](AutoNHITS_Project.ipynb)
+* 📓 [TimeCoPilot Model Pipeline](TCF_Project.ipynb)
+* 📓 [TabPFN Model Pipeline](Bonus_TabPFN_Project.ipynb)
+
+### 🧐 Model Selection
+* 📓 [Selecting the Best Model Workflow](Selecting_BestModel_Project.ipynb)
+
+### 📈 Final Testing & Visualizations
+* 📓 [Forecasting with the Selected Best Model (LGBM)](FinalForecast_LGBM_Project.ipynb)
+* 🖼️ [Final Forecast Plots vs. Actuals](FinalForecast_Plots_vs_Actuals.png)
+
+### 📄 Required Evaluation Outputs (CSVs)
+* 📄 [Baseline (No Predictors) Evaluation](baseline_no_pred_eval.csv)
+* 📄 [Baseline (With Predictors) Evaluation](baseline_w_pred_eval.csv)
+* 📄 [LightGBM Evaluation Results](eval_lgb.csv)
+* 📄 [AutoNBEATS Evaluation Results](eval_autonbeats_1.csv)
+* 📄 [AutoNHITS Evaluation Results](eval_autonhits_1.csv)
+* 📄 [TimeCoPilot Evaluation Results](eval_tcf_1.csv)
+* 📄 [TabPFN Evaluation Results](eval_tabpfn_1.csv)
